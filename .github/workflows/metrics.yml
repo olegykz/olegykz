@@ -31,7 +31,7 @@ jobs:
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: columns
-          config_padding: 0, 8 + 20%
+          config_padding: 0, 8 + 11%
           config_timezone: Europe/Berlin
           plugin_gists: yes
           plugin_habits: yes
